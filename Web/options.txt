@@ -1,0 +1,2 @@
+Allowed: GET, HEAD, OPTIONS, TRACE
+
